@@ -38,6 +38,6 @@ Using advanced SQL techniques for reporting
 
 Building strong Data Analyst–level SQL skills
 
-## author
+## Author
 
 DurgaDevi M Aspiring Data Analyst
