@@ -30,14 +30,14 @@ Business reporting queries
 
 Writing real-world SQL queries for data analysis
 
-## Author
-
-DurgaDevi M Aspiring Data Analyst
-
 Extracting insights from multiple tables
 
-Performing sales and customer analysis
+Performing sales and customer analysi
 
 Using advanced SQL techniques for reporting
 
 Building strong Data Analyst–level SQL skills
+
+## author
+
+DurgaDevi M Aspiring Data Analyst
